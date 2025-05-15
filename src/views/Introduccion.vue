@@ -27,17 +27,17 @@
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.p-3.h-100.br-1
               img.mx-auto.d-block.mb-4(src="@/assets/curso/temas/3.svg" alt="" style="width: 90px")
-              h5 Segundo tema 
+              h5 Segundo eje 
               p.mb-0 El análisis de los recursos humanos, con énfasis en la capacidad, competencias y desempeño del personal. 
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.p-3.h-100.br-1
               img.mx-auto.d-block.mb-4(src="@/assets/curso/temas/3.svg" alt="" style="width: 90px")
-              h5 Tercer tema 
+              h5 Tercer eje 
               p.mb-0 La evaluación de la cultura organizacional, abordando los valores, normas y comportamientos que definen la identidad de la empresa. 
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.p-3.h-100.br-1
               img.mx-auto.d-block.mb-4(src="@/assets/curso/temas/3.svg" alt="" style="width: 90px")
-              h5 Cuarto tema 
+              h5 Cuarto eje 
               p.mb-0 El análisis de los procesos internos, determinando la eficiencia y efectividad de las actividades estratégicas. 
 
     .row.mb-5 

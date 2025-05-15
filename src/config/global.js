@@ -146,29 +146,14 @@ export default {
     },
     {
       referencia:
-        'Luna González, A. C. (2015). <i>Administración estratégica</i>. Grupo Editorial Patria. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39421?page=7',
-    },
-    {
-      referencia:
         'Caldera Mejía, R. (2012). <i>Planeación estratégica de Recursos Humanos: conceptos y teoría</i>. B - EUMED. ',
       link:
         'https://elibro.net/es/ereader/tecnologicadeloriente/51569?page=23 ',
     },
     {
       referencia:
-        'Torres Hernández, Z. (2015), <i>Administración estratégica</i>. Grupo Editorial Patria. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39403?page=4',
-    },
-    {
-      referencia:
         'Reinoso Lastra, J. F., Vera Calderón, J. A. & Ramírez Ramírez, E. A. (2023). <i>Gestión de la cultura y el cambio organizacional</i>. Sello Editorial Universidad del Tolima. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/232951?page=6',
-    },
-    {
-      referencia:
-        'Torres Hernández, Z. (2015). <i>Administración estratégica</i>. Grupo Editorial Patria. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39403?page=4 ',
     },
     {
       referencia:

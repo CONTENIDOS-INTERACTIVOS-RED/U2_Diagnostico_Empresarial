@@ -77,7 +77,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Fortalezas y debilidades
             p.mb-4(data-aos="fade-right") La evaluación de fortalezas y debilidades en la estructura de recursos humanos es una herramienta clave para identificar los factores que potencian o limitan el desempeño organizacional. En el PDF Fortalezas y debilidades, se presenta un análisis detallado de los elementos internos que influyen en la gestión del talento, desde la planificación estratégica hasta la motivación del personal, permitiendo reconocer buenas prácticas y áreas críticas que deben ser fortalecidas para impulsar el crecimiento y la sostenibilidad empresarial.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

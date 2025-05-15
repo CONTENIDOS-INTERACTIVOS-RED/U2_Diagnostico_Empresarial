@@ -20,7 +20,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Evaluación de la cultura organizacional 
             p.mb-4(data-aos="fade-right") En el PDF Evaluación de la cultura organizacional, se presentan fundamentos teóricos y herramientas de análisis que permiten identificar cómo esta cultura influye en el ambiente interno, la estrategia y el rendimiento organizacional, facilitando así procesos de transformación coherentes y sostenibles. Esta evaluación resulta clave para orientar la gestión del cambio y fortalecer la cohesión interna en las organizaciones.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

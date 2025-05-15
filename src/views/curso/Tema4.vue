@@ -55,14 +55,14 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Proceso de dirección
             p.mb-4(data-aos="fade-right") En el PDF Proceso de dirección, se analizan tanto las fortalezas que consolidan el desempeño gerencial como las debilidades que pueden afectar la competitividad empresarial, abordando aspectos como la estructura organizacional, la planeación estratégica, el liderazgo, la cultura organizacional y la gestión del talento. Este análisis resulta clave para identificar áreas de mejora y fortalecer la capacidad directiva hacia un crecimiento sostenible.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p <strong>Anexo. </strong> Proceso de dirección 
 
     #t_4_2.titulo-segundo(data-aos="flip-up")
-      h2 #[span 4.2] Proceso de dirección
+      h2 #[span 4.2] Procesos financieros
 
     .row
       .col.order-md-2.order-lg-1  
@@ -202,7 +202,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Procesos comerciales 
             p.mb-4(data-aos="fade-right") En el PDF Procesos comerciales, se presenta una evaluación detallada de los factores que influyen en el desempeño comercial, destacando fortalezas como la estrategia definida, el uso de tecnología y la atención al cliente, así como debilidades que afectan la eficiencia de ventas. Este diagnóstico permite identificar oportunidades de mejora que fortalecen la competitividad y sostenibilidad empresarial.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -236,7 +236,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Procesos de mercadotecnia 
             p.mb-4(data-aos="fade-right") En el PDF Procesos de mercadotecnia, se identifican fortalezas como el conocimiento del mercado, el desarrollo de estrategias efectivas y la fidelización de clientes, así como debilidades que limitan la competitividad y visibilidad de la marca. Este análisis proporciona una base para tomar decisiones estratégicas que fortalezcan la estructura comercial y aumenten el impacto de las acciones de marketing en el entorno empresarial.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
